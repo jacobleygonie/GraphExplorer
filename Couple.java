@@ -1,4 +1,4 @@
-package trisEtTest;
+package ParcoursDeGrapheSansMemoireTotal;
 
 class Couple
 {
